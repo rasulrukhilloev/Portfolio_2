@@ -14,7 +14,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Software Developer 🚀 having an experience of developing Web and " +
       "Mobile applications with JavaScript / Reactjs / Nodejs / Python(Flask) / React Native and some other cool libraries and frameworks. " +
-      "Currently passionate about developing efficient Machine and Deep Learning models"
+      "At the present, I find Data Science to be exceedingly promising and focus specifically on creating Machine and Deep Learning models"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1VHvwiXSaU7YWlANryIfFbWy-7niIzcxo/view?usp=sharing",
@@ -353,7 +353,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or need help automate with Artificial Intelligence? My Inbox is open for all.",
-  number: "+99-9396699",
+  number: "+998(99)-9396699",
   emailAddress: "rukhillaevrasul@gmail.com",
 };
 
