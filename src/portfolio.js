@@ -352,7 +352,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or need help automate with Artificial Intelligence? My Inbox is open for all.",
+    "Discuss a project or need a help to automate any tasks with Artificial Intelligence? My Inbox is open for all.",
   number: "+998(99)-9396699",
   emailAddress: "rukhillaevrasul@gmail.com",
 };
