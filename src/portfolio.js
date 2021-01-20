@@ -119,7 +119,7 @@ const educationInfo = {
       schoolName: "Help University",
       logo: require("./assets/images/help_logo.jpg"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "January 2017 - January 2020",
+      duration: "January 2017 - December 2020",
       desc:
         "Participated in the various researches about Machine Learning, Blockchain and Mobile/Web Development and published a FinTech mobile application as a Final Year Project.",
       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"],
